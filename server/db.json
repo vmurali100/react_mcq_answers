@@ -1,0 +1,13 @@
+{
+  "mcqs": [
+    {
+      "question": "Which of the following is used in React.js to increase performance?",
+      "choice1": "Virtual DOM",
+      "choice2": "Original DOM",
+      "choice3": "Both A and B",
+      "choice4": "None of the above",
+      "correctAns": "Virtual DOM",
+      "id": 1
+    }
+  ]
+}
